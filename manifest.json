@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Sogameking Twitch",
+    "description": "La chaine twitch de votre streameur favoris. Ne rate plus aucun live avec la Chextention!",
+    "version": "1.0.2",
+    "author": "KaNa",
+    "permissions": ["webNavigation"],
+    "browser_action":{
+        "default_icon": "img/icon.png",
+        "default_popup": "popup.html"
+    },
+    "icons":{
+        "70": "img/icon_v2.png"
+    },
+    "background": {
+        "scripts": ["js/function.js"],
+        "persistent": true
+    }
+}
