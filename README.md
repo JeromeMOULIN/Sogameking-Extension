@@ -1,1 +1,1 @@
-Extension google chrome tres basic basic pour un streamer
+Extension google chrome tres basic pour un streamer
